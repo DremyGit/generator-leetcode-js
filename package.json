@@ -1,0 +1,17 @@
+{
+  "name": "generator-leetcode",
+  "version": "1.0.0",
+  "description": "生成 LeetCode 解题代码",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "files": [
+    "problem"
+  ],
+  "author": "Dremy <dremy@dremy.cn>",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^3.1.1",
+    "request": "^2.88.0"
+  }
+}
